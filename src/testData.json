@@ -1,0 +1,24 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "title": "soup",
+      "description": "lentil soup"
+    },
+    {
+      "id": 2,
+      "title": "salade",
+      "description": "greek salade"
+    },
+    {
+      "id": 3,
+      "title": "cookie",
+      "description": "chocolate cookie"
+    },
+    {
+      "id": 4,
+      "title": "macaron",
+      "description": "sweets"
+    }
+  ]
+}
